@@ -1,0 +1,5 @@
+C:\Users\Migueel\Documents\GitHub\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Migueel\Documents\GitHub\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Migueel\Documents\GitHub\HolaMundo\obj\x86\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+C:\Users\Migueel\Documents\GitHub\HolaMundo\obj\x86\Debug\HolaMundo.exe
+C:\Users\Migueel\Documents\GitHub\HolaMundo\obj\x86\Debug\HolaMundo.pdb
