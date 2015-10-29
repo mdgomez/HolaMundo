@@ -1,0 +1,6 @@
+*_
+*.back
+*.exe
+*.dll
+bin/
+obj/
