@@ -6,7 +6,7 @@ namespace HolaMundo
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello mejor World!");
+			Console.WriteLine ("Hello mejor todavia World!");
 		}
 	}
 }
